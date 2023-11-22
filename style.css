@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: system-ui, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+.header {
+    display: flex;
+    background-color: rgb(32, 32, 32);
+    justify-content: center;
+    text-align: center;
+    padding: 10px;
+}
+
+h1 {
+    color: white;
+}
+
+body {
+    background-color: rgb(245, 238, 229);
+}
+
+.container {
+    display: flex;
+    gap: 50px;
+    padding: 20px
+}
