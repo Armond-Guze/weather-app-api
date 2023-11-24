@@ -74,3 +74,34 @@ body {
   border-radius: 5px;
   justify-content: space-around;
 }
+
+.weather-data h3 {
+  margin-top: 10px;
+  font-weight: 500;
+}
+
+.current-weather .icon img {
+  max-width: 120px;
+  margin-top: -20px;
+  justify-content: center;
+  text-align: center;
+}
+
+.days-forecast h3 {
+margin: 20px 0
+}
+
+.weather-cards {
+display: flex;
+gap: 25px;
+}
+
+.weather-cards .card {
+  background-color: rgb(2, 2, 90);
+  color: white;
+  padding: 15px;
+  border-radius: 5px;
+  list-style: none;
+  width: calc(100% / 5);
+}
+
