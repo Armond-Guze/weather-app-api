@@ -16,4 +16,3 @@ Using Open Weather, we scanned the docs searching for the unique matieral needed
 
 
 ![sc of week6](https://github.com/Armond-Guze/weather-app-api/assets/88688052/e7e854cc-01c7-40f7-b534-9f23a6350642)
-![image](https://github.com/Armond-Guze/weather-app-api/assets/88688052/fb8ee88f-3b9d-4f4e-b942-349a44d1a704)
