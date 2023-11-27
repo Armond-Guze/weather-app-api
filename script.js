@@ -33,7 +33,7 @@ const getWeatherDetails = (cityName, lat, lon) => {
 const getCityCoordinates = () => {
   const cityName = cityInput.value.trim();
   if (!cityName) return;
-  const coordinates = `http://api.openweathermap.org/geo/1.0/direct?q=${cityName}&limit=1&appid=${ApiKey}`;
+  const coordinates = `https://api.openweathermap.org/geo/1.0/direct?q=${cityName}&limit=1&appid=${ApiKey}`;
 
   fetch(coordinates)
     .then((response) => response.json())
