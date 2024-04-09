@@ -14,4 +14,5 @@ We tried to model our homepage after the one in the provided example with differ
 ## Implement API
 Using Open Weather, we scanned the docs searching for the unique matieral needed to complete the assignment.
 
+https://armond-guze.github.io/weather-app-api/
 
